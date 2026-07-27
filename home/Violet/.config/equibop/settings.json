@@ -1,0 +1,12 @@
+{
+    "discordBranch": "stable",
+    "minimizeToTray": false,
+    "arRPC": false,
+    "customTitleBar": true,
+    "staticTitle": true,
+    "splashProgress": true,
+    "tray": false,
+    "badgeOnlyForMentions": true,
+    "splashColor": "rgb(239, 239, 241)",
+    "splashBackground": "rgb(18, 18, 20)"
+}
